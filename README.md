@@ -4,4 +4,7 @@
 使用方法
 
 setChildHorizontalMargin
+
 setChildVerticalMargin
+
+setChildrenLayoutMode
