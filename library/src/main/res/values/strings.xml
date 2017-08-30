@@ -1,0 +1,4 @@
+<resources>
+    <string name="flowlayout_child_position_row">row</string>
+    <string name="flowlayout_child_position_column">column</string>
+</resources>
